@@ -1,1 +1,3 @@
-# t_bot
+# активація віртуального середовища
+
+source .venv/bin/activate
